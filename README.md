@@ -2,6 +2,10 @@
 
 A small, runnable example for [LinkedIn Jobs Scraper](https://apify.com/aurelix/linkedin-jobs), an Apify Actor by Aurelix.
 
+[![LinkedIn Jobs Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/linkedin-jobs-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/linkedin-jobs-demo-v1.mp4)
+
+**[▶ Watch the 75-second demo](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/linkedin-jobs-demo-v1.mp4)**
+
 ## What it does
 
 LinkedIn Jobs Scraper turns public LinkedIn job postings into clean rows: title, company, location, salary where LinkedIn shows it, seniority, job type, posted date, job link and the full description. Search by keyword and country (LinkedIn's exact country id, so results stay in the country you picked), or paste LinkedIn job search URLs. Jobs that fail your filters are dropped and never charged.
