@@ -1,6 +1,18 @@
 # LinkedIn Jobs Scraper: Python example
 
-A small, runnable example for [LinkedIn Jobs Scraper](https://apify.com/aurelix/linkedin-jobs), an Apify Actor by Aurelix.
+**The problem:** You need LinkedIn job postings for one country in a spreadsheet, without logging in to LinkedIn or copying them by hand.
+
+**The tool:** [LinkedIn Jobs Scraper](https://apify.com/aurelix/linkedin-jobs), an Apify Actor by Aurelix. This repository is a small, runnable Python example for it.
+
+**The price:** $1.50 per 1,000 jobs on Apify's free plan and $1.05 on paid plans, plus $0.00005 per run; you pay only for results. Apify's free plan includes $5 of credit a month.
+
+**Try it** (needs an Apify API token from Console > Settings > API & Integrations):
+
+```bash
+pip install -r requirements.txt
+export APIFY_TOKEN=your_token_here
+python main.py
+```
 
 [![LinkedIn Jobs Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/linkedin-jobs-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/linkedin-jobs-demo-v1.mp4)
 
