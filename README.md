@@ -1,5 +1,8 @@
 # LinkedIn Jobs Scraper: Python example
 
+**LinkedIn Jobs by Country to CSV - Scraper, No Login.** Public LinkedIn job postings by keyword and country: title, company, location, seniority, job type, salary text, description. Price, example input and output, and FAQ: [LinkedIn Jobs No Login Scraper on the Aurelix tools site](https://aurelix-solutions.github.io/tools/linkedin-jobs/). Run it on the Apify Store: [apify.com/aurelix/linkedin-jobs](https://apify.com/aurelix/linkedin-jobs).
+
+
 **The problem:** You need LinkedIn job postings for one country in a spreadsheet, without logging in to LinkedIn or copying them by hand.
 
 **The tool:** [LinkedIn Jobs Scraper](https://apify.com/aurelix/linkedin-jobs), an Apify Actor by Aurelix. This repository is a small, runnable Python example for it.
@@ -14,7 +17,7 @@ export APIFY_TOKEN=your_token_here
 python main.py
 ```
 
-[![LinkedIn Jobs Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/linkedin-jobs-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/linkedin-jobs-demo-v1.mp4)
+[![LinkedIn Jobs No Login Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/linkedin-jobs-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/linkedin-jobs-demo-v1.mp4)
 
 **[▶ Watch the 75-second demo](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/linkedin-jobs-demo-v1.mp4)**
 
